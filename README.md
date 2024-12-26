@@ -23,4 +23,4 @@ Daily bonus, notifications, promo codes and much more
 
 This script is unique and completely ready for creating a project.
 
-telegram @alpacinoka)
+telegram @alpacinoka
